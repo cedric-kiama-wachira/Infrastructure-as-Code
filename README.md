@@ -1,1 +1,1 @@
-![Alt Text](Infrastructure-as-Codepng)
+![Alt Text](Infrastructure-as-Code.png)
